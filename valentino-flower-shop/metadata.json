@@ -1,0 +1,6 @@
+{
+  "name": "Valentino Flower Shop",
+  "description": "Gül ve lalenin zanaat ve algoritmik hassasiyetle buluştuğu dijital çiçek mağazası ve sürükleyici sanatsal sergi alanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
